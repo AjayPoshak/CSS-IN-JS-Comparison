@@ -5,8 +5,8 @@ Pseudo Classes | ✓ | ✓ | ✓ |
 Media Queries | ✓ | ✓ | ✓ |
 Styles As Object Literals | | ✓ | ✓ |
 Extract CSS File | | ✓ | ✓ |
-Mount Time (ms)| 182 | 75.52 |
-Rerender time (ms) | 146.84 | 54.84 |
+Mount Time (ms)| 165.66 | 75.52 |
+Rerender time (ms) | 129.55 | 54.84 |
 
 References:<br />
 [Feature Comparisons](https://github.com/MicheleBertoli/css-in-js/blob/master/README.md) <br />

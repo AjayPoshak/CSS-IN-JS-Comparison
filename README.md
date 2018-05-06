@@ -5,6 +5,7 @@ Pseudo Classes | ✓ | ✓ | ✓ |
 Media Queries | ✓ | ✓ | ✓ |
 Styles As Object Literals | | ✓ | ✓ |
 Extract CSS File | | ✓ | ✓ |
+React Native Support | ✓ | ✓ | [Not yet](https://github.com/emotion-js/emotion/issues/119) |
 Mount Time (ms)| 165.66 | 75.52 | 144.70
 Rerender time (ms) | 129.55 | 54.84 | 102.96
 
